@@ -2,4 +2,8 @@
 
 [![Circle CI](https://circleci.com/gh/Freq-Out/sm-ffmpeg.svg?style=shield)](https://circleci.com/gh/Freq-Out/sm-ffmpeg)
 
-Can be used as is.
+Can be used as is:
+
+```
+$ docker run -it --rm freqout/sm-ffmpeg --help
+```
